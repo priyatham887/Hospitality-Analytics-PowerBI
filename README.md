@@ -40,6 +40,8 @@ The dashboard helps stakeholders monitor hotel performance and make data-driven 
 - Cancellation Rate
 - Revenue Trends
 
+- 
+
 ---
 
 ## 🧠 Business Insights
@@ -47,3 +49,6 @@ The dashboard helps stakeholders monitor hotel performance and make data-driven 
 - Highlighted underperforming properties
 - Observed revenue growth trends
 - Detected cancellation impact on occupancy
+
+- <img width="1920" height="1128" alt="Screenshot 2026-02-21 122431" src="https://github.com/user-attachments/assets/ff00d4cc-f3e8-437e-bb07-7e7df493dd75" />
+
